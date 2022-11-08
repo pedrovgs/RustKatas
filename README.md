@@ -27,6 +27,11 @@ This project contains some tests written using [Cargo](https://doc.rust-lang.org
 cargo test
 ```
 
+| # | Kata Statement | PR | Topic |
+|---|----------------|----|-------|
+| 1 | [FizzBuzz](http://codingdojo.org/KataFizzBuzz) | [https://github.com/pedrovgs/KotlinKatas/pull/6](https://github.com/pedrovgs/RustKatas/pull/1) | Variables, functions and unit tests. |
+| 2 | [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) | [https://github.com/pedrovgs/KotlinKatas/pull/6](https://github.com/pedrovgs/RustKatas/pull/2) | Structs, pattern matching and vectors. |
+
 Developed By
 ------------
 
