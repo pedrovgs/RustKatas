@@ -2,13 +2,13 @@ fn fizz_buzz(value: i32) -> String {
     let is_mod_of_3 = value % 3 == 0;
     let is_mod_of_5 = value % 5 == 0;
     if is_mod_of_3 && is_mod_of_5 {
-        return "FizzBuzz".to_string();
+        "FizzBuzz".to_string()
     } else if is_mod_of_3 {
-        return "Fizz".to_string();
+        "Fizz".to_string()
     } else if is_mod_of_5 {
-        return "Buzz".to_string();
+        "Buzz".to_string()
     } else {
-        return value.to_string();
+        value.to_string()
     }
 }
 
