@@ -5,3 +5,4 @@ fn main() {
 }
 
 mod fizz_buzz;
+mod game_of_life;
