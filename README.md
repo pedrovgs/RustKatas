@@ -27,6 +27,8 @@ This project contains some tests written using [Cargo](https://doc.rust-lang.org
 cargo test
 ```
 
+### Solved katas:
+
 | # | Kata Statement | PR | Topic |
 |---|----------------|----|-------|
 | 1 | [FizzBuzz](http://codingdojo.org/KataFizzBuzz) | [https://github.com/pedrovgs/KotlinKatas/pull/6](https://github.com/pedrovgs/RustKatas/pull/1) | Variables, functions and unit tests. |
