@@ -1,3 +1,7 @@
+#![allow(dead_code)]
+
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, RustKatas!");
 }
+
+mod fizz_buzz;
