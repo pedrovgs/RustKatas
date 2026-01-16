@@ -49,7 +49,7 @@ impl Board {
     }
 
     fn count_alive_neighbours(&self, x: i32, y: i32) -> i32 {
-        let neighbours = vec![
+        let neighbours = [
             self.get_cell_at_position(x - 1, y - 1),
             self.get_cell_at_position(x, y - 1),
             self.get_cell_at_position(x + 1, y - 1),
